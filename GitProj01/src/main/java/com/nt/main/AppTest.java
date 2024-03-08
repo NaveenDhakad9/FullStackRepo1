@@ -9,6 +9,6 @@ public class AppTest
     	System.out.println("sum : "+ ar.sum(100,200));
         System.out.println("sub : "+ ar.sub(100, 200));
         System.out.println(" cahnge ");
-        System.out.println("mul : "+ ar.mul(100, 200));
+        System.out.println("mul : "+ ar.mul(100, 200));//456 789
     }
 }
